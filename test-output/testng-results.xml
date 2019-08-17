@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77120" started-at="2019-08-04T18:41:42Z" finished-at="2019-08-04T18:42:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77120" started-at="2019-08-04T18:41:42Z" finished-at="2019-08-04T18:42:59Z">
+      <class name="ntt.data.docker_selenium_implementation.ChromeTest1">
+        <test-method status="PASS" signature="setUpDocker()[pri:0, instance:ntt.data.docker_selenium_implementation.ChromeTest1@5d5eef3d]" name="setUpDocker" is-config="true" duration-ms="24181" started-at="2019-08-05T00:11:42Z" finished-at="2019-08-05T00:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDocker -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:ntt.data.docker_selenium_implementation.ChromeTest1@5d5eef3d]" name="test1" duration-ms="19916" started-at="2019-08-05T00:12:06Z" finished-at="2019-08-05T00:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDownDocker()[pri:0, instance:ntt.data.docker_selenium_implementation.ChromeTest1@5d5eef3d]" name="tearDownDocker" is-config="true" duration-ms="19163" started-at="2019-08-05T00:12:40Z" finished-at="2019-08-05T00:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDocker -->
+      </class> <!-- ntt.data.docker_selenium_implementation.ChromeTest1 -->
+      <class name="ntt.data.docker_selenium_implementation.ChromeTest3">
+        <test-method status="PASS" signature="test3()[pri:0, instance:ntt.data.docker_selenium_implementation.ChromeTest3@6cc4c815]" name="test3" duration-ms="33727" started-at="2019-08-05T00:12:06Z" finished-at="2019-08-05T00:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- ntt.data.docker_selenium_implementation.ChromeTest3 -->
+      <class name="ntt.data.docker_selenium_implementation.ChromeTest2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:ntt.data.docker_selenium_implementation.ChromeTest2@56f4468b]" name="test2" duration-ms="23338" started-at="2019-08-05T00:12:06Z" finished-at="2019-08-05T00:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- ntt.data.docker_selenium_implementation.ChromeTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
